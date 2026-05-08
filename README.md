@@ -13,9 +13,9 @@ risk among employees using data-driven analysis.
 
 Dataset
 
-Source: Mental Health in Tech Survey — [Kaggle](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
+Source: Mental Health in Tech Survey : [Kaggle](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
 Rows: around 1,200 employee survey responses
-Target variable: `treatment` — whether the employee sought mental health treatment (Yes/No)
+Target variable: `treatment` whether the employee sought mental health treatment (Yes/No)
 
 
 ## Features Used (14)
