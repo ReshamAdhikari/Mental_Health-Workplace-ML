@@ -20,23 +20,7 @@ Target variable: `treatment` whether the employee sought mental health treatment
 
 ## Features Used (14)
 
-| Feature | Description |
-
- Age | Employee age (filtered 18–60)
- Gender | Cleaned and standardised 
- family_history | Family history of mental illness 
- work_interfere | How much mental health affects work 
- wellness_program | Whether employer offers wellness programme 
- benefits | Mental health benefits provided 
- supervisor | Comfort discussing with supervisor 
- care_options | Awareness of care options 
- leave | Ease of taking mental health leave 
- coworkers | Comfort discussing with coworkers 
- mental_health_consequence | Fear of consequences for disclosing 
- seek_help | Whether employer encourages seeking help 
- remote_work | Works remotely 
- obs_consequence | Observed consequences for others 
-
+Age, Gender, family_history , work_interfere , wellness_program , benefits, supervisor, care_options, leave, coworkers, mental_health_consequence , seek_help, remote_work, obs_consequence 
 
 ## Models Compared
 
